@@ -1,3 +1,4 @@
+// pair programmed with @ajama12 (Asma Jama)
 const wordSearch = (letters, word) => {
   // return false if letters is an empty array
   if (!letters.length) {
